@@ -1,2 +1,2 @@
-%TITLE:Forge Loader% %DESC:Minecraft Mod Client% %REQ:None% %FILE:https://raw.githubusercontent.com/ThatError404/MultiMod/main/ServerFiles/Games/Minecraft/Mods/Forge-Loader/installer.py%
-%TITLE:Replay Mod% %DESC:A Minecraft Mod that allowes you to record and render your recordings.% %REQ:Fabric & Fabric API% %FILE:https://raw.githubusercontent.com/ThatError404/MultiMod/main/ServerFiles/Games/Minecraft/Mods/Replay-Mod/installer.py%
+[MOD1] %TITLE:Forge Loader% %DESC:Minecraft Mod Client% %REQ:None% %FILE:https://raw.githubusercontent.com/ThatError404/MultiMod/main/ServerFiles/Games/Minecraft/Mods/Forge-Loader/installer.py%
+[MOD2] %TITLE:Replay Mod% %DESC:A Minecraft Mod that allowes you to record and render your recordings.% %REQ:Fabric & Fabric API% %FILE:https://raw.githubusercontent.com/ThatError404/MultiMod/main/ServerFiles/Games/Minecraft/Mods/Replay-Mod/installer.py%
