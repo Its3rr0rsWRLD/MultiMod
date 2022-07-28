@@ -1,1 +1,1 @@
-%TITLE:Forge Loader | %DESC:Minecraft Mod Client | %REQ:None%
+%TITLE:Forge Loader% %DESC:Minecraft Mod Client% %REQ:None%
